@@ -5,4 +5,4 @@ from django.http import HttpResponse
 
 
 def hello(request):
-    return HttpResponse('<h1 style="text-align: center">Welcome to Django！</h1>')
+    return HttpResponse('<h1 style="text-align: center">Welcome to Django！Guys.</h1>')
